@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WadieBenabdouh
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning front end requirement 
+- 🌱 I’m currently learning front end requirements
 - 💞️ I’m looking to collaborate on creating a front end structure for a website 
-- 📫 How to reach me : check my Twitter profile in my Bio.
+- 📫 How to reach me : check my bio
 
 <!---
 WadieBenabdouh/WadieBenabdouh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
