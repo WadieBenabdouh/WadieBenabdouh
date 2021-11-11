@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WadieBenabdouh
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning front end requirements
-- 💞️ I’m looking to collaborate on creating a front end structure for a website 
+- 🌱 I’m currently learning how to become a FullStack Developer
+- 💞️ I’m looking to collaborate on creating a front end/back end structure for a website 
 - 📫 How to reach me : check my bio
 
 <!---
