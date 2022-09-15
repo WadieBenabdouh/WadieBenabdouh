@@ -35,5 +35,21 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/WadieBenabdouh"><img src="https://github-readme-stats.vercel.app/api?username=WadieBenabdouh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=f97316&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="WadieBenabdouh's GitHub stats" /></a>
+
+### Github Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadieBenabdouh&theme=vue" />
+
+### Framework
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### Favourite Browswes
+
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+
+### My Machine 
+
+<img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
 										
                   
