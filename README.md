@@ -46,10 +46,22 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 
 ### Favourite Browswes
 
+
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+
+Most used Languages 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadieBenabdouh"/>
 
 ### My Machine 
 
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
-										
-                  
+
+### IDE
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+### Gaming 
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+									                  
