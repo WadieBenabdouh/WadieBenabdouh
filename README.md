@@ -44,7 +44,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### Favourite Browswes
+### Favourite Browser
 
 
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
