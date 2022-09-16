@@ -47,7 +47,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 ### Favourite Browser
 
 
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+<a href="https://www.mozilla.org/en-US/firefox/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
 
 Most used Languages 
 
