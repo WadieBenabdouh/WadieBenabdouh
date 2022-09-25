@@ -42,7 +42,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 
 ### Framework
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
 ### Favourite Browser
 
@@ -51,7 +51,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 
 Most used Languages 
 
-<a href="https://reactjs.org/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadieBenabdouh"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadieBenabdouh"/>
 
 ### My Machine 
 
