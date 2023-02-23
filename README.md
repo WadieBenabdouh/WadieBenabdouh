@@ -1,5 +1,3 @@
-<img src="https://images8.alphacoders.com/430/430447.jpg">
-
 Hi 👋 My name is Wadie Benabdouh
 ================================
 
