@@ -4,7 +4,7 @@ Hi 👋 My name is Wadie Benabdouh
 Front-end Developer
 -------------------
 
-Coding is my hobby since 2016, I was introduced to the world of Java and I loved the concept of coding, then I moved to web development which was my favorite one, HTML CSS & Javascript became my most used technologies.
+Coding is my hobby since 2016, I was introduced to the world of Java and I loved the concept of coding, then I moved to web development and Python which was my favorite field, HTML CSS & Javascript became my most used technologies.
 
 *   🌍  I'm based in Morocco
 *   ✉️  You can contact me at [wadie.trade@gmail.com](mailto:wadie.trade@gmail.com)
