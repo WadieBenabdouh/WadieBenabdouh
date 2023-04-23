@@ -9,7 +9,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 *   🌍  I'm based in Morocco
 *   ✉️  You can contact me at [wadie.trade@gmail.com](mailto:wadie.trade@gmail.com)
 *   🧠  I'm learning Javascript
-*   🤝  I'm open to collaborating on Open Source Projects
+*   🤝  I'm open to collaborate on Open Source Projects
 *   ⚡  Water >>> Energy drinks.
 
 <a href="https://www.twitter.com/benabdouhwadie" target="_blank" rel="noreferrer"><img
