@@ -4,13 +4,14 @@ Hi 👋 My name is Wadie Benabdouh
 Front-end Developer
 -------------------
 
-Coding is my hobby since 2016, I was introduced to the world of Java and I loved the concept of coding, then I moved to web development and Python which was my favorite field, HTML CSS & Javascript became my most used technologies.
+Coding is my hobby since 2016, I was introduced to the world of Java and I loved the concept of coding, then I moved to web development and Python which was my favorite playground, HTML CSS & Javascript became my most used technologies.
 
-*   🌍  I'm based in Morocco
+*   🌍  I'm based in Morocco.
 *   ✉️  You can contact me at [wadie.trade@gmail.com](mailto:wadie.trade@gmail.com)
-*   🧠  I'm learning Javascript
-*   🤝  I'm open to collaborate on Open Source Projects
+*   🧠  I'm learning Javascript.
+*   🤝  I'm open to collaborate on Open Source Projects.
 *   ⚡  Water >>> Energy drinks.
+*   OPEN SOURCE EVERYTHIIIING
 
 <a href="https://www.twitter.com/benabdouhwadie" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/benabdouhwadie?logo=twitter&style=for-the-badge&color=ef4444&labelColor=365314"/></a>
