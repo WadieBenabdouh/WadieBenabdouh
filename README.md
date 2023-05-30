@@ -1,6 +1,6 @@
 Hi 👋 My name is Wadie Benabdouh
 
-https://wadie-portfolio.netlify.app/
+<a href="https://wadie-portfolio.netlify.app/">Portfolio</a>
 ================================
 
 Front-end Developer
