@@ -1,6 +1,4 @@
 Hi 👋 My name is Wadie Benabdouh
-
-<a href="https://wadie-portfolio.netlify.app/">Portfolio</a>
 ================================
 
 Front-end Developer
@@ -14,6 +12,8 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 *   🤝  I'm open to collaborate on Open Source Projects.
 *   ⚡  Water >>> Energy drinks.
 *   OPEN SOURCE EVERYTHIIIING
+*   <a href="https://wadie-portfolio.netlify.app/">Portfolio</a>
+
 
 <a href="https://www.twitter.com/benabdouhwadie" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/benabdouhwadie?logo=twitter&style=for-the-badge&color=ef4444&labelColor=365314"/></a>
