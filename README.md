@@ -38,7 +38,7 @@ Coding is my hobby since 2016, I was introduced to the world of Java and I loved
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WadieBenabdouh&theme=tokyonight&hide_border=true)<br/>
 
-<a href="http://www.github.com/WadieBenabdouh"><img src="https://github-readme-stats.vercel.app/api?username=WadieBenabdouh&show_icons=true&hide=&count_private=true&title_color=fff&text_color=000&icon_color=000000&bg_color=fd0724&hide_border=false&show_icons=true" alt="WadieBenabdouh's GitHub stats" /></a>
+<a href="http://www.github.com/WadieBenabdouh"><img src="https://github-readme-stats.vercel.app/api?username=WadieBenabdouh&show_icons=true&hide=&count_private=true&title_color=000&text_color=fff&icon_color=000000&bg_color=ef9a32&hide_border=false&show_icons=true" alt="WadieBenabdouh's GitHub stats" /></a>
 
 ### Github Profile Summary
 
